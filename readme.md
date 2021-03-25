@@ -1,6 +1,4 @@
-
-
-##Presentacion
+#Presentacion
 
 Hola buenas a todos, soy Juan Cruz Carello. Tengo 21 años, soy de Campana.
 ##Hobbies
@@ -15,4 +13,3 @@ Hola buenas a todos, soy Juan Cruz Carello. Tengo 21 años, soy de Campana.
 -Vikingos
 
 #Bueno espero que les haya gustado, un abrazo.
-![texto_alternativo](https://pbs.twimg.com/media/DtMF6ScWkAAThlZ?format=jpg&name=medium)

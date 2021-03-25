@@ -1,6 +1,6 @@
 readme.md
 
-#Presentacion#
+#Presentacion
 Hola buenas a todos, soy Juan Cruz Carello. Tengo 21 años, soy de Campana.
 #Hobbies
 - Ir a la cancha, soy hincha de River.
